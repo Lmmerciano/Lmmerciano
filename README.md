@@ -1,6 +1,6 @@
 - 👋 Hi, I’m LaMarco Merciano
 - 👀 I’m interested in full stack software engineering and software security 
-- 🌱 I’m currently learning java, javascript, SQL, Ruby
+- 🌱 I’m currently learning java, javascript, SQL, React Native, Expo Projects
 - 💞️ I’m looking to collaborate on new innovative projects 
 - 📫 How to reach me Lmmerciano@gmail.com
 
